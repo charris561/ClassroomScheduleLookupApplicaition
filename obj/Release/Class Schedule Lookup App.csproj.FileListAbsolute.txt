@@ -1,0 +1,16 @@
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Release\ClassScheduleData.csv
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup App.csproj.AssemblyReference.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup App.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Schedule_Lookup_UI.GUI.resources
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Schedule_Lookup_UI.Properties.Resources.resources
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup App.csproj.GenerateResource.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup App.csproj.CoreCompileInputs.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Release\Class Schedule Lookup.exe.config
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Release\Class Schedule Lookup.exe.manifest
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Release\Class Schedule Lookup.application
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Release\Class Schedule Lookup.exe
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Release\Class Schedule Lookup.pdb
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup.exe.manifest
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup.application
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup.exe
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Release\Class Schedule Lookup.pdb

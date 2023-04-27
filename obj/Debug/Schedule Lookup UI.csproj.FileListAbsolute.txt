@@ -1,0 +1,12 @@
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Debug\Schedule Lookup UI.exe.config
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Debug\Schedule Lookup UI.exe
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Debug\Schedule Lookup UI.pdb
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule Lookup UI.csproj.AssemblyReference.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule Lookup UI.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule_Lookup_UI.Properties.Resources.resources
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule Lookup UI.csproj.GenerateResource.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule Lookup UI.csproj.CoreCompileInputs.cache
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule Lookup UI.exe
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule Lookup UI.pdb
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\obj\Debug\Schedule_Lookup_UI.GUI.resources
+C:\Dev\Work-ServiceDesk\UI\Schedule Lookup UI\bin\Debug\ClassScheduleData.csv
